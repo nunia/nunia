@@ -2,7 +2,7 @@
 
 Know me:
 
-- 🔭 I’m currently working as the CEO of CACLD.
+<!-- - 🔭 I’m currently working as the CEO of CACLD. -->
 - 🌱 I’m more inclined towards Gaming Industry, Artificial Intelligence, and Digital World.
 - 👯 I’m looking to collaborate on projects related to Augmented Reality.
 - 💬 Ask me about product development, I would love to work with people across the globe.
