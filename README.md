@@ -8,6 +8,6 @@ Know me:
 - 💬 Ask me about product development, I would love to work with people across the globe.
 - 📫 How to reach me: sknunia2000@gmail.com
 - ✨ Website: http://nunia.tk/
-- ⚡ Fun fact: For me, deadlines are very important.
+<!-- - ⚡ Fun fact: For me, deadlines are very important. -->
 
 ![dino](https://user-images.githubusercontent.com/51073115/117550044-a152c200-b05b-11eb-8003-bd3066a98570.gif)
