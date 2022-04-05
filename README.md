@@ -6,7 +6,7 @@ Know me:
 - 🌱 I’m more inclined towards Gaming Industry, Artificial Intelligence, and Digital World.
 - 👯 I’m looking to collaborate on projects related to Augmented Reality.
 - 💬 Ask me about product development, I would love to work with people across the globe.
-- 📫 How to reach me: sknunia2000@gmail.com
+<!-- - 📫 How to reach me: sknunia2000@gmail.com -->
 <!-- - ✨ Website: http://nunia.in/ -->
 <!-- - ⚡ Fun fact: For me, deadlines are very important. -->
 
