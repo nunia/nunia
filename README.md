@@ -1,7 +1,5 @@
 <b> Hi 👋, I'm Sunil Kumar Nunia!</b>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nunia" alt="Nunia" /></a> </p>
-
 Know me:
 
 <!-- - 🔭 I’m currently working as the CEO of CACLD. -->
@@ -13,5 +11,7 @@ Know me:
 <!-- - ⚡ Fun fact: For me, deadlines are very important. -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nunia&" alt="Nunia" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nunia" alt="Nunia" /></a> </p>
 
 ![dino](https://user-images.githubusercontent.com/51073115/117550044-a152c200-b05b-11eb-8003-bd3066a98570.gif)
