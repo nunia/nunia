@@ -1,5 +1,7 @@
 <b> Hi 👋, I'm Sunil Kumar Nunia!</b>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritraleo" alt="aritraleo" /></a> </p>
+
 Know me:
 
 <!-- - 🔭 I’m currently working as the CEO of CACLD. -->
