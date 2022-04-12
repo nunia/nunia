@@ -12,4 +12,6 @@ Know me:
 <!-- - ✨ Website: http://nunia.in/ -->
 <!-- - ⚡ Fun fact: For me, deadlines are very important. -->
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nunia&" alt="Nunia" /></p>
+
 ![dino](https://user-images.githubusercontent.com/51073115/117550044-a152c200-b05b-11eb-8003-bd3066a98570.gif)
