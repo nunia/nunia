@@ -1,6 +1,6 @@
 <b> Hi 👋, I'm Sunil Kumar Nunia!</b>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritraleo" alt="aritraleo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nunia" alt="Nunia" /></a> </p>
 
 Know me:
 
