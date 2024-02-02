@@ -2,8 +2,8 @@
 
 Know me:
 
-<!-- - 🔭 I’m currently working as the CEO of CACLD. -->
-- 🌱 I’m more inclined towards Cloud, Artificial Intelligence, and Fullstack Development.
+<!-- - 🔭 I’m currently working as a software developer. -->
+- 🌱 I’m more inclined towards Cloud Engineering, Artificial Intelligence, and Product Development.
 - 👯 I’m looking to collaborate on projects related to Augmented Reality.
 - 💬 Ask me about product development, I would love to work with people across the globe.
 <!-- - 📫 How to reach me: sknunia2000@gmail.com -->
